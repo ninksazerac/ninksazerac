@@ -60,6 +60,7 @@ Hi! My name is Phanchita Teeraphatanaroj.😄
 <img align="center" src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Contact me : 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 📫 [![Gmail Badge](https://img.shields.io/badge/-phanchita.tj@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:phanchita.tj@gmail.com)](phanchita.tj@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-n.sazerac_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/n.sazerac_/)](https://www.instagram.com/n.sazerac_/)
