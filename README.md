@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> W E L C O M E</h1>
+<h1 align="center"> W E L C O M E</h1>
 <img align="center" src="https://profile-counter.glitch.me/ninksazerac/count.svg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OoohBaby&color=F999B7&size=30&lines=Hey!+I'm+Phanchita;Let's+enjoy+my+treasure!;)](https://git.io/typing-svg)
@@ -11,10 +11,10 @@ Hi! My name is Phanchita Teeraphatanaroj.😄
 - 🌱 I’m currently learning computer engineering
 
 - 🔭 I’m currently studying on King Mongkut's Institute of Technology Ladkrabang
-   
-- 💬 Ask me about Programming or Machine Learning
 
-- 📫 How to reach me phanchita.tj@gmail.com
+- 📫 How to reach me *phanchita.tj@gmail.com*
+
+- 😄 Sometimes I also stream games *https://www.twitch.tv/sirracz*
 
 - ⚡ Fun fact: *At The time of Stress coding, I use to be in half sleeping mode*
 
